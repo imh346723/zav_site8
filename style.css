@@ -1,0 +1,41 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: navy;
+    padding: 5px;  
+}
+
+h1 {
+    text-align: center;
+    color: navy;
+}
+
+footer p {
+    border: 3px solid rgba(128, 128, 128, 0.501);
+    padding: 10px; 
+}
+
+nav{
+    background-color: green;
+}
+nav a{
+    margin: 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: white;
+}
+
+.Party{
+    background-color: rgb(255, 97, 97);
+    border-radius: 20px;
+    color: white;
+    padding: 12px;
+}
+
+h2{
+    margin: 20px;
+    color: blue;
+    font-size: 30px;
+}
